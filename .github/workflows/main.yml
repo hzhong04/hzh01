@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 18380680050 -p hzhong040109 -l 256422928 #课程id，默认j
+        run: python main.py -u 18380680050 -p hzhong040109 -l 227732497 #课程id，默认j
